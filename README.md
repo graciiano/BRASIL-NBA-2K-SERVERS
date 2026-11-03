@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/status-beta-ff7a1a?style=for-the-badge" alt="Beta">
 </p>
 
-<h3 align="center">Os servidores oficiais do NBA 2K22 foram desligados. A gente religou a quadra. 🏀🇧🇷</h3>
+<h3 align="center">Os servidores oficiais do NBA 2K22 foram desligados. A gente religou a quadra. 🏀</h3>
 
 <p align="center">
   O <b>NBA 2K BRASIL SERVERS</b> é um launcher que conecta o seu NBA 2K22 a um servidor privado da comunidade.<br>
